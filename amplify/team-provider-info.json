@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-murakamitodo-dev-91535-authRole",
+      "UnauthRoleArn": "arn:aws:iam::235948323550:role/amplify-murakamitodo-dev-91535-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::235948323550:role/amplify-murakamitodo-dev-91535-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-murakamitodo-dev-91535-deployment",
+      "UnauthRoleName": "amplify-murakamitodo-dev-91535-unauthRole",
+      "StackName": "amplify-murakamitodo-dev-91535",
+      "StackId": "arn:aws:cloudformation:us-east-1:235948323550:stack/amplify-murakamitodo-dev-91535/5412ba50-ec6c-11ed-9d58-0ac3526e2cbd",
+      "AmplifyAppId": "dur8pf2vnhx9e"
+    }
+  }
+}
